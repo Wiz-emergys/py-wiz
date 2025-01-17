@@ -13,6 +13,7 @@ Repository for python training codes
 
 
 
+![ascii-text-art](https://github.com/user-attachments/assets/22cb833b-c5bb-4a89-96a2-954115c48186)
 
 
 
