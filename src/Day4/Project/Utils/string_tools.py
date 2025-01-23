@@ -1,6 +1,7 @@
 
 def word_Count(text):
-    return len(text)
+    words=text.split()
+    return len(words)
 
 def find_Most_Commom(text):
     maxi=0
@@ -15,8 +16,6 @@ def find_Most_Commom(text):
         return "Error in input"
     except Exception as e:
         return e
-    
-find_Most_Commom("hey demo demo demo im hey")
 
 def reverse_words(text):
     try :
@@ -28,7 +27,6 @@ def reverse_words(text):
     except Exception as e:
         return e    
     
-reverse_words("hey master demo im hey")
 
 def check_palindrome(text):
     try:
@@ -37,7 +35,7 @@ def check_palindrome(text):
         return "Error in input"
     except Exception as e:  
         return e
-print(check_palindrome("madam madam madam madam"))
+    
 
 
 

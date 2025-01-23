@@ -1,0 +1,4 @@
+The length of string is 8
+The reverse of the string is jain nikhil
+The string is palindrome : True
+The most common word is data

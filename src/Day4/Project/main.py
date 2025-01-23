@@ -1,33 +1,41 @@
 from file_processing.file_manager import *
 from user_management.user_handler import *
 from Utils.string_tools import *
-
-
+summery=[]
 def string_ops(choice):
     while True:
         match choice:
             case 1:
                 user1=input("Enter the String : ")
                 try:
-                    print(f"The length of string is {word_Count(user1)}")
+                    result=word_Count(user1)
+                    summery.append(f"The length of string is {result}")
+                    print(f"The length of string is {result}")
                 except Exception as e:
                     print(e)
             case 2:
                 try:
                     user1=input("Enter the String : ")
-                    print(f"The reverse of the string is {reverse_words(user1)}")
+                    result=reverse_words(user1)
+                    summery.append(f"The reverse of the string is {result}")
+                    print(f"The reverse of the string is {result}")
                 except Exception as e:
                     print(e)
             case 3:
                 try:
                     user1=input("Enter the String : ")
-                    print(f"The string is palindrome : {check_palindrome(user1)}")
+                    result=check_palindrome(user1)
+                    summery.append(f"The string is palindrome : {result}")
+                    print(f"The string is palindrome : {result}")
+                    # print(f"The string is palindrome : {result}")
                 except Exception as e:
                     print(e)
             case 4:
                 try:
                     user1=input("Enter the String : ")
-                    print(f"The most common word is {find_Most_Commom(user1)}")
+                    result=find_Most_Commom(user1)
+                    summery.append(f"The most common word is {result}")
+                    print(f"The most common word is {result}")
                 except Exception as e:
                     print(e)
             case _:
@@ -37,6 +45,7 @@ def string_ops(choice):
 
 
 def user_management(users,choice):
+    
     while True:
         match choice:
             case 1:
@@ -83,7 +92,7 @@ def user_management(users,choice):
 
 
 def main_menu():
-    users={}
+    users=[]
     while True:
         try:
             print("****************************** Main Menu ******************************")
@@ -115,6 +124,37 @@ def main_menu():
                     except Exception as e:
                         print(e)
                 case 3:
+                    print("******************************Welcome to the file processing system******************************")
+                    print(" Enter 1 to load users from file \n Enter 2 to save users to file \n Enter 3 to write summary \n Enter 4 to exit")
+                    try:
+                        input2=int(input("Enter your choice : "))
+                        match input2:
+                            case 1:
+                                try:
+                                    users=load_users_from_file("users_data.txt")
+                                    print("Users loaded successfully")
+                                except Exception as e:  
+                                    print(e)
+                            case 2:
+                                try:
+                                    save_users_to_file("users_data.txt",users)
+                                    print("Users saved successfully")
+                                except Exception as e:
+                                    print(e)
+
+                            case 3:
+                                try:
+                                    summery_text="\n".join(map(str,summery))
+                                    write_summery("summary_of_data.txt",summery_text)
+                                    print("Summary written successfully")
+                                except Exception as e: 
+                                    print(e)
+                            case 4:
+                                break
+                    except ValueError:
+                        print("Invalid choice\n")
+                    except Exception as e:
+                        print(e)
                     pass
                 case 4:
                     break
