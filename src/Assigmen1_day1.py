@@ -1,4 +1,14 @@
-#Remove all occurrences of a specific value from list 
+'''This is the day one assignment file for the python course 
+which contents practice quetions covering the following topics:
+1. List
+2. Tuple
+3. Dictionary
+4. Set
+5. String
+6. Data types
+7. Conditional statements'''
+
+# # Remove all occurrences of a specific value from list 
 # lister = [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
 # value_to_remove = 2
 # for x in lister:
@@ -8,13 +18,13 @@
 
 
 
-# #Find intersection of two lists 
+# Find intersection of two lists 
 # list1 = [1, 2, 3, 3, 4, 5]
 # list2 = [3,3, 4, 5, 6, 7]
 # intersection = [value for value in list1 if value in list2]
 # print("Intersection of two lists : ", intersection)
 
-#Get smallest, largest number from list 
+# Get smallest, largest number from list 
 # lister = [1, 2, 3, 4, 5]
 # print(f"Smallest number is : { min(lister)} and Largest number is : {max(lister)}")
 
@@ -24,7 +34,7 @@
 #Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples 
 
 # Sample list = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)] 
-#Expected output = [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)] \
+# Expected output = [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)] 
 
 # lister = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
 # for i in range(0, len(lister)):
@@ -45,7 +55,7 @@
 If the average score is greater than or equal to 90, the grade is 'A'. 
 If the average score is greater than or equal to 80 and less than 90, the grade is 'B'. 
 If the average score is greater than or equal to 70 and less than 80, the grade is 'C'. 
-If the average score is greater than or equal to 60 and less than 70, the grade is 'D'. 
+If the average score is greater than or  v equal to 60 and less than 70, the grade is 'D'. 
 If the average score is less than 60, the grade is 'F'. 
 Tasks: '''
 
@@ -57,7 +67,7 @@ Tasks: '''
 #     exam1 = float(input("Enter the score for Exam 1: "))
 #     exam2 = float(input("Enter the score for Exam 2: "))
 #     exam3 = float(input("Enter the score for Exam 3: "))
-   
+    
 #     average_score = (lambda e1, e2, e3: (e1 + e2 + e3) / 3)(exam1, exam2, exam3)
    
 #     if average_score >= 90:
@@ -85,14 +95,14 @@ Tasks: '''
 # for student in students:
 #     print(f"{student['name']:<15}{student['exam1']:<10}{student['exam2']:<10}{student['exam3']:<10}{student['average_score']:<10.2f}{student['grade']:<5}")
 
-list1 = [1, 2,3, 4, 5, 3]
-list2 = [3, 3, 3,4, 5, 6, 7]
+# # list1 = [1, 2,3, 4, 5, 3]
+# # list2 = [3, 3, 3,4, 5, 6, 7]
 
 
-intersection=[]
-temp_list=list2.copy()
-for value in list1:
-    if value in temp_list:
-        intersection.append(value)
-        temp_list.remove(value)
-print(intersection)
+# intersection=[]
+# temp_list=list2.copy()
+# for value in list1:
+#     if value in temp_list:
+#         intersection.append(value)
+#         temp_list.remove(value)
+# print(intersection)
