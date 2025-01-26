@@ -27,7 +27,7 @@ def load_users_from_file(filename):
         return e
     
 def write_summery(file,text_analysis):
-    try:
+    try: 
         with open(file,'w') as file:
             file.write(text_analysis)
         return "Summery written successfully"
