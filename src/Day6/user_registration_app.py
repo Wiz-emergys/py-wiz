@@ -1,38 +1,18 @@
+'''
+3. Write python code that allows users to register new accounts, log in to existing
+accounts, and reset their passwords.
+1. For new registration, store unique username and password in text file
+2. For log in check login is valid or not
+3. For password change, check for username and change the password
+4. Use proper error handling
+5. Data should be stored: username1,password_hash1,email_or_phone1
+6. Store data in separate folder for employee login, admin login, manager
+login, etc.
+7. Use os module to create proper directory structure. Check if directories
+and files if they are exists.
+8. Create a user interface using Streamlit
 
-# #q1
-# import json
-
-# # Load JSON data into a Python data structure
-# wi 
-# # Results
-# print("States with multiple area codes:")
-# print(states_with_multiple_area_codes)
-# print("\nTotal number of area codes per state:")
-# print(area_code_count)
-# print(f"\nState with the highest number of area codes: {max_area_code_state} ({max_area_code_count} area codes)")
-
-
-
-#2
-# import json
-
-# # Example Python dictionary
-# example_dict = {
-#     "name": "California",
-#     "population": 39538223,
-#     "area_codes": ["209", "213", "310", "323"],
-#     "capital": "Sacramento",
-#     "founded": 1850
-# }
-
-# # Convert dictionary to JSON, sorting by keys and adding indent
-# sorted_json_data = json.dumps(example_dict, indent=4, sort_keys=True)
-
-# # Print the JSON data
-# print("JSON Data (Sorted by Keys):")
-# print(sorted_json_data)
-
-#   3
+'''
 
 import os
 import hashlib
