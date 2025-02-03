@@ -46,7 +46,7 @@ def scrape_results():
                             continue
 
                         try:
-                            response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=250)
+                            response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=25)
                             response.raise_for_status()
                             soup = BeautifulSoup(response.text, "html.parser")
                             
