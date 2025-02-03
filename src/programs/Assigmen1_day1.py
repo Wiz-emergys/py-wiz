@@ -10,12 +10,13 @@ which contents practice quetions covering the following topics:
 
 # # Remove all occurrences of a specific value from list 
 # lister = [1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
-# value_to_remove = 2
-# for x in lister:
-#     if x == value_to_remove:
-#         lister.remove(x)
-# print("Original List : ", lister)
-
+# value_to_remove=2
+# for i in lister:
+#     if i == value_to_remove:
+#         lister.remove(i)
+#     else:
+#         pass
+# print(lister)
 
 
 # Find intersection of two lists 
@@ -37,7 +38,7 @@ which contents practice quetions covering the following topics:
 # Expected output = [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)] 
 
 # lister = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
-# for i in range(0, len(lister)):
+# for i in range(0, len(lister)): 
 #     for j in range(i+1, len(lister)):
 #         if lister[i][-1] > lister[j][-1]:
 #             lister[i], lister[j] = lister[j], lister[i]
@@ -50,6 +51,8 @@ which contents practice quetions covering the following topics:
 #     print("   " * (n - i - 1) + " * " * (2 * i + 1))
 # for i in range(n - 2, -1, -1):
 #     print("   " * (n - i - 1) + " * " * (2 * i + 1))
+
+
 
 '''Develop a program to calculate the final grades of students based on their scores in three exams: Exam 1, Exam 2, and Exam 3. The final grade is calculated as follows: 
 If the average score is greater than or equal to 90, the grade is 'A'. 
@@ -95,8 +98,8 @@ Tasks: '''
 # for student in students:
 #     print(f"{student['name']:<15}{student['exam1']:<10}{student['exam2']:<10}{student['exam3']:<10}{student['average_score']:<10.2f}{student['grade']:<5}")
 
-# # list1 = [1, 2,3, 4, 5, 3]
-# # list2 = [3, 3, 3,4, 5, 6, 7]
+# list1 = [1, 2,3, 4, 5, 3]
+# list2 = [3, 3, 3,4, 5, 6, 7]
 
 
 # intersection=[]
