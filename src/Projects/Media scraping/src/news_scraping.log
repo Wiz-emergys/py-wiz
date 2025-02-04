@@ -1,0 +1,6 @@
+2025-02-04 18:08:52,338 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-02-04 18:08:52,434 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-02-04 18:10:00,005 - INFO - Successfully saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-04 18:10:00,006 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-04 18:10:00,135 - INFO - Successfully saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-04 18:10:00,136 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
