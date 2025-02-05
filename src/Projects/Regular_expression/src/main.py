@@ -6,13 +6,15 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import os
-import pdfplumber
+import PyPDF2
+from pypdf import PdfReader
 import re
+import requests
 
 
 
-
-download_dir=os.path.join(os.getcwd(), 'download')
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+download_dir=os.path.join(project_root, 'download')
 os.makedirs(download_dir, exist_ok=True)
 
 def download_pdf():
@@ -45,11 +47,13 @@ def find_path(name,download_dir):
 
 
 def extract_text_from_pdf(pdf_path):
-    with pdfplumber.open(pdf_path) as pdf:
-        text = ""
-        for page_number in range(min(3, len(pdf.pages))):  # Extract text from the first 3 pages
-            page = pdf.pages[page_number]
-            text += page.extract_text()
+    reader = PdfReader(pdf_path)
+    text = ""
+    # Extract text from the first 3 pages (or fewer if the document is shorter)
+    for page_number in range(min(3, len(reader.pages))):
+        page = reader.pages[page_number]
+        page_text = page.extract_text() or ""
+        text += page_text
     return text
 
 def extract_cin(text):
@@ -112,16 +116,24 @@ def main(pdf_path):
     print(websites)
     
 
-    import requests
 
 
 # Download the PDF
 # download_pdf()
 
 pdf_path =find_path("Draft-Annual-Return-FY-2021-22.pdf",download_dir)
-main(pdf_path)
+pdf_path = find_path("Draft-Annual-Return-FY-2021-22.pdf", download_dir)
+if pdf_path:
+    print(f"Found file: {pdf_path} (Size: {os.path.getsize(pdf_path)} bytes)")
+else:
+    print("PDF not found!")
 
+main(pdf_path)
 pdf_path = find_path("Form-MGT-7.pdf",download_dir)
+if pdf_path:
+    print(f"Found file: {pdf_path} (Size: {os.path.getsize(pdf_path)} bytes)")
+else:
+    print("PDF not found!")
 main(pdf_path)
 
         
