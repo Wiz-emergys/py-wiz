@@ -3,21 +3,33 @@ import re
 import requests
 from bs4 import BeautifulSoup
 import html2text
+import os
 from urllib.parse import urlparse
 # Configure logging
+
+
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+logs_dir = os.path.join(project_root, "logs")
+os.makedirs(logs_dir, exist_ok=True)
+
+
+extracted_dir = os.path.join(project_root, "extracted_content")
+os.makedirs(extracted_dir, exist_ok=True)
+
 logging.basicConfig(
-    filename='news_scraping.log',
+    filename=os.path.join(logs_dir, 'runtime.log'),
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 def clean_filename(title):
-    """Convert title to filesystem-safe name"""
     return re.sub(r'[^\w\s-]', '', title).strip()[:50]
 def save_article(title, content, domain):
     """Save content to markdown file with proper structure"""
     try:
         filename = f"{domain}_{clean_filename(title)}.md"
-        with open(filename, 'w', encoding='utf-8') as f:
+        filepath = os.path.join(extracted_dir, filename)
+        with open(filepath, 'w', encoding='utf-8') as f:
             f.write(f"# {title}\n\n{content}")
         logging.info(f"Successfully saved article: {filename}")
         return True
@@ -25,7 +37,6 @@ def save_article(title, content, domain):
         logging.error(f"Save failed: {str(e)}")
         return False
 def scrape_article(url, title_selector, content_selector):
-    """Generic news article scraper"""
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'

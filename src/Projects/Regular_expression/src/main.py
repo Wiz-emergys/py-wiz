@@ -83,34 +83,33 @@ def main(pdf_path):
     
     # Extract CIN numbers
     cin_numbers = extract_cin(text)
-    print(cin_numbers)
     print(f"CIN Numbers: {len(cin_numbers)} found")
+    print(cin_numbers)
     
     # Extract Email IDs
     emails = extract_emails(text)
-    print(emails)
     print(f"Email IDs: {len(emails)} found")
+    print(emails)
     
     # Extract Phone Numbers
     phone_numbers = extract_phone_numbers(text)
-    print(phone_numbers)
     print(f"Phone Numbers: {len(phone_numbers)} found")
+    print(phone_numbers)
     
     # Extract PAN numbers
     pan_numbers = extract_pan_numbers(text)
-    print(pan_numbers)
     print(f"PAN Numbers: {len(pan_numbers)} found")
+    print(pan_numbers)
     
     # Extract Dates
     dates = extract_dates(text)
-    print(dates)
     print(f"Dates: {len(dates)} found")
+    print(dates)
     
     # Extract Websites
     websites = extract_websites(text)
-    print(websites)
-
     print(f"Websites: {len(websites)} found")
+    print(websites)
     
 
     import requests

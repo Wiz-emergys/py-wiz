@@ -3,12 +3,13 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 from urllib.parse import quote
-
+import time 
 # ======== CONFIG ========
-CONFIG_FILE = r"C:\Users\NikhilJain\py-wiz\src\Projects\extract_artical_details\src\config.json"
+CONFIG_FILE = r"C:\Users\NikhilJain\py-wiz\src\Projects\Extract artical details\src\config.json"
 OUTPUT_FILE = "news_results.csv"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 # ========================
+start=time.time()
 def safe_get(element, selector, attribute="text"):
     """Safely extract data from HTML element"""
     result = element.select_one(selector)
@@ -83,3 +84,4 @@ def scrape_results():
 if __name__ == "__main__":
     scrape_results()
     print(f"Scraping completed! Results saved to {OUTPUT_FILE}")
+    print("total time :",time.time()-start)
