@@ -16,7 +16,6 @@ start = time.time()
 
 
 def safe_get(element, selector, attribute="text"):
-    """Safely extract data from HTML element"""
     result = element.select_one(selector)
     if result:
         if attribute == "text":
@@ -37,7 +36,6 @@ def get_search_url(engine, query, page):
 
 
 async def fetch(session, url):
-    """Fetch the URL asynchronously"""
     try:
         async with session.get(url, headers={"User-Agent": USER_AGENT}, timeout=25) as response:
             return await response.text()
@@ -47,7 +45,6 @@ async def fetch(session, url):
 
 
 async def scrape_page(session, writer, search_str, engine, page):
-    """Scrape a single page asynchronously"""
     url = get_search_url(engine, search_str, page)
     if not url:
         return
@@ -85,7 +82,6 @@ async def scrape_page(session, writer, search_str, engine, page):
 
 
 async def scrape_results():
-    """Main scraping function"""
     with open(CONFIG_FILE) as f:
         config = json.load(f)
     

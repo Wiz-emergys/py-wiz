@@ -2,18 +2,26 @@
 
 By: Reuters February 4, 2025 15:07 IST
 
-4 min read
+![Newsguard](https://indianexpress.com/wp-
+content/themes/indianexpress/images/icon-newsguard.svg)
 
-  * 
-  * 
-  * 
-  * 
+![clocklogo](https://indianexpress.com/wp-
+content/themes/indianexpress/images/icons/clock.svg) 4 min read
+
+  * ![facebook](https://indianexpress.com/wp-content/themes/indianexpress/images/icon-fb.svg)
+  * ![twitter](https://indianexpress.com/wp-content/themes/indianexpress/images/x-story.svg)
+  * ![whatsapp](https://indianexpress.com/wp-content/themes/indianexpress/images/icon-whatsapp.svg)
+  * ![Reddit](https://indianexpress.com/wp-content/themes/indianexpress/images/black-icon-reddit.svg)
   * 
 
-China said in December it had launched an investigation into Nvidia over a
+![China said in December it had launched an investigation into Nvidia over a
 suspected violation of the country's anti-monopoly law, a probe widely seen as
 a retaliatory shot against Washington's latest curbs on the Chinese chip
-sector. (File photo)
+sector.](https://images.indianexpress.com/2025/02/vs-1.jpg?w=640)China said in
+December it had launched an investigation into Nvidia over a suspected
+violation of the country's anti-monopoly law, a probe widely seen as a
+retaliatory shot against Washington's latest curbs on the Chinese chip sector.
+(File photo)
 
 China on Tuesday announced a wide range of measures targeting U.S. businesses
 including Google, farm equipment makers and fashion brand Calvin Klein’s
@@ -23,6 +31,9 @@ The measures were announced as Beijing also slapped tariffs on some U.S.
 products such as coal, gas and electric trucks in a rapid response to the new
 duties on Chinese goods imposed by U.S. President Donald Trump, escalating
 trade tensions between the world’s two biggest economies.
+
+![](https://indianexpress.com/wp-content/themes/indianexpress/images/default-
+ie.jpg)
 
 China’s Commerce Ministry said it had put PVH Corp, the holding company for
 brands including Calvin Klein and Tommy Hilfiger, and U.S. biotechnology firm
@@ -37,6 +48,9 @@ Chinese companies.
 Companies added to the blacklist can be subject to fines and a broad range of
 other sanctions, including a freeze on trade and revocation of work permits
 for foreign staff.
+
+![Festive offer](https://indianexpress.com/wp-
+content/themes/indianexpress/images/default-ie.jpg)
 
 Separately, China’s State Administration of Market Regulation said Google was
 suspected of violating the country’s anti-monopoly law and an investigation

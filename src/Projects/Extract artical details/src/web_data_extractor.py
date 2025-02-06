@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 from urllib.parse import quote
 import time 
+
 # ======== CONFIG ========
 CONFIG_FILE = r"C:\Users\NikhilJain\py-wiz\src\Projects\Extract artical details\src\config.json"
 OUTPUT_FILE = "news_results.csv"
@@ -11,7 +12,6 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # ========================
 start=time.time()
 def safe_get(element, selector, attribute="text"):
-    """Safely extract data from HTML element"""
     result = element.select_one(selector)
     if result:
         if attribute == "text":

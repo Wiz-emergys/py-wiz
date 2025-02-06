@@ -5,11 +5,11 @@ from bs4 import BeautifulSoup
 import html2text
 import os
 from urllib.parse import urlparse
-# Configure logging
+import asyncio
+from aiohttp import clientSession
 
 
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
 logs_dir = os.path.join(project_root, "logs")
 os.makedirs(logs_dir, exist_ok=True)
 
@@ -22,10 +22,12 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
+
 def clean_filename(title):
     return re.sub(r'[^\w\s-]', '', title).strip()[:50]
+
+
 def save_article(title, content, domain):
-    """Save content to markdown file with proper structure"""
     try:
         filename = f"{domain}_{clean_filename(title)}.md"
         filepath = os.path.join(extracted_dir, filename)
@@ -36,6 +38,7 @@ def save_article(title, content, domain):
     except Exception as e:
         logging.error(f"Save failed: {str(e)}")
         return False
+
 def scrape_article(url, title_selector, content_selector):
     try:
         headers = {
@@ -47,7 +50,7 @@ def scrape_article(url, title_selector, content_selector):
         
         soup = BeautifulSoup(response.text, 'lxml')
         
-        # Extract title
+        # Extract title\=
         title_element = soup.select_one(title_selector)
         if not title_element:
             raise ValueError("Title element not found")
@@ -82,14 +85,12 @@ def scrape_article(url, title_selector, content_selector):
         logging.error(f"Error scraping {url}: {str(e)}")
         return False
 def scrape_indian_express(url):
-    """Scrape articles from Indian Express"""
     return scrape_article(
         url,
         title_selector='h1[itemprop="headline"]',
         content_selector='div.full-details'
     )
 def scrape_the_hindu(url):
-    """Scrape articles from The Hindu"""
     return scrape_article(
         url,
         title_selector='div.storyline h1.title',

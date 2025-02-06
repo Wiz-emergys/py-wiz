@@ -2,3 +2,307 @@
 2025-02-05 16:31:19,348 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
 2025-02-05 16:31:19,469 - INFO - Successfully saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
 2025-02-05 16:31:19,469 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 13:03:37,446 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 13:03:37,447 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 13:04:03,538 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 13:04:03,539 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 13:04:51,521 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 13:04:51,522 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 13:05:18,097 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 13:05:18,098 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 13:05:18,099 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 13:05:18,099 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 13:05:52,502 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 13:05:52,502 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 13:05:52,503 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 13:05:52,503 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 13:07:50,622 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 13:07:50,623 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 13:07:50,623 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 13:07:50,623 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:02:51,658 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 14:02:51,659 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 14:02:51,659 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:02:51,659 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:05:07,126 - ERROR - No selected configured for domain indianexpress.com
+2025-02-06 14:05:07,126 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 14:05:07,127 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:05:07,127 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:05:25,415 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 14:05:25,731 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:05:25,732 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:05:25,733 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:06:14,838 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 14:06:15,097 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:06:15,098 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:06:15,099 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:07:27,765 - ERROR - No selected configured for domain www.thehindu.com
+2025-02-06 14:07:28,016 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:07:28,016 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:07:28,017 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:09:04,562 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:09:04,563 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:09:04,707 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:09:04,707 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:09:51,146 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:09:51,146 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:09:51,272 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:09:51,273 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:15:18,388 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:15:18,389 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:15:18,524 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:15:18,525 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:15:18,548 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Title element not found
+2025-02-06 14:15:18,549 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:16:32,866 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:16:32,866 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:16:32,916 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:16:33,034 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:16:33,034 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:16:33,035 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:18:45,634 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:18:45,635 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:18:45,710 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:18:45,710 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:18:45,737 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:18:45,739 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:19:18,441 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:19:18,441 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:19:18,605 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:19:18,606 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:19:19,050 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Title element not found
+2025-02-06 14:19:19,051 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:19:49,609 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:19:49,610 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:19:49,709 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Title element not found
+2025-02-06 14:19:49,767 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:19:49,767 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:19:49,768 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:20:57,127 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:20:57,127 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:20:57,170 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:20:57,171 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:20:57,309 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:20:57,310 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:22:22,265 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:22:22,265 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:22:22,355 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:22:22,430 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:22:22,430 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:22:22,431 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:22:38,544 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:22:38,544 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:22:38,604 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:22:38,604 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:22:38,638 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:22:38,639 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:23:34,720 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:23:34,721 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:23:34,830 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:23:34,831 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:23:34,894 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:23:34,895 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:24:08,984 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:24:08,985 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:24:09,084 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:24:09,085 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:24:09,182 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:24:09,183 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:24:50,757 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:24:50,757 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:24:50,861 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:24:50,862 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:24:50,916 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:24:50,916 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:25:02,950 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:25:02,951 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:25:03,046 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:25:03,047 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:25:03,076 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:25:03,077 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:25:26,980 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:25:26,981 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:25:27,031 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:25:27,032 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:25:27,289 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:25:27,290 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:26:13,987 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:26:13,988 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:26:14,018 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:26:14,018 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:26:14,148 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:26:14,148 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:27:23,116 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:27:23,117 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:27:23,145 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:27:23,278 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:27:23,279 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:27:23,280 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:28:25,078 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: Content element not found
+2025-02-06 14:28:25,100 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:28:25,176 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: Content element not found
+2025-02-06 14:28:25,178 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:28:25,178 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:28:25,179 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:30:01,993 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:30:01,994 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:30:02,044 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:30:02,203 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:30:02,204 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:30:02,206 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:30:29,040 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:30:29,144 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:30:29,193 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:30:29,194 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:30:29,194 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:30:29,195 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:30:49,837 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:30:49,864 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:30:49,913 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:30:49,914 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:30:49,915 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:30:49,915 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:31:07,260 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:31:07,284 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:31:07,329 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:31:07,330 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:31:07,331 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:31:07,331 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:32:10,235 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:32:10,287 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:32:10,289 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:32:10,289 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:33:11,981 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:33:12,148 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:33:12,149 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:33:12,149 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:33:47,302 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:33:47,302 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:33:47,469 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:33:47,470 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:34:30,199 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:34:30,200 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:34:30,307 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:34:30,308 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:34:30,437 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:34:30,438 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:35:51,212 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:35:51,213 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:35:51,297 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: Content element not found
+2025-02-06 14:35:51,353 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:35:51,353 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:35:51,355 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:37:38,859 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:37:38,859 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:37:38,891 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:37:38,891 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:37:38,948 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:37:38,951 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:38:11,759 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:38:11,760 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:38:11,794 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:38:11,795 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:38:11,870 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:38:11,871 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:40:29,725 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:40:29,725 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:40:29,795 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:40:29,795 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:40:29,839 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:40:29,839 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:44:56,524 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: ResultSet object has no attribute "get_text". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:44:56,549 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "get_text". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:44:56,592 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: ResultSet object has no attribute "get_text". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:44:56,593 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:44:56,593 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:44:56,594 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:45:07,888 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:45:07,977 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:45:08,006 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:45:08,007 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:45:08,008 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:45:08,008 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:50:35,367 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:50:35,368 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:50:35,465 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:50:35,465 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:50:35,520 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:50:35,521 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:51:35,436 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:51:35,436 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:51:35,545 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:51:35,545 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:51:35,604 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:51:35,605 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:52:47,974 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:52:47,975 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:52:48,105 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:52:48,106 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:52:48,956 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:52:48,956 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:55:06,568 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:55:06,569 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:55:06,703 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:55:06,703 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:55:06,828 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:55:06,829 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:55:50,508 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:55:50,508 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:55:50,539 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:55:50,540 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:55:50,655 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:55:50,655 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:56:20,771 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: 'dict' object has no attribute 'key'
+2025-02-06 14:56:20,772 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: 'dict' object has no attribute 'key'
+2025-02-06 14:56:20,772 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: 'dict' object has no attribute 'key'
+2025-02-06 14:56:20,772 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:56:20,773 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:56:20,773 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:56:28,876 - ERROR - Error scraping https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull: 'dict' object has no attribute 'key'
+2025-02-06 14:56:28,877 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: 'dict' object has no attribute 'key'
+2025-02-06 14:56:28,877 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: 'dict' object has no attribute 'key'
+2025-02-06 14:56:28,878 - ERROR - Task failed for url https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull..
+2025-02-06 14:56:28,878 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:56:28,878 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:56:49,228 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:56:49,229 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:56:49,334 - INFO - Successfu    lly saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-06 14:56:49,334 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 14:56:49,408 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:56:49,408 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:57:08,160 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:57:08,161 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:57:08,186 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:57:23,412 - ERROR - Error scraping https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece: 
+2025-02-06 14:57:23,413 - ERROR - Task failed for url https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece..
+2025-02-06 14:57:23,413 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 14:59:38,037 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 14:59:38,038 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 14:59:38,065 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-06 14:59:38,125 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 14:59:38,125 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 14:59:38,127 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 15:01:19,352 - INFO - Successfu    lly saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 15:01:19,353 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 15:01:19,476 - INFO - writing done
+2025-02-06 15:01:19,565 - INFO - Successfu    lly saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 15:01:19,566 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 15:01:19,567 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 15:03:25,850 - INFO - Successfully saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 15:03:25,851 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 15:03:25,920 - INFO - Successfully saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 15:03:25,921 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 15:03:26,011 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 15:03:26,014 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 15:05:43,846 - INFO - Successfully saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 15:05:43,847 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 15:05:43,958 - INFO - Successfully saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 15:05:43,958 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 15:05:43,993 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 15:05:43,996 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-06 15:09:09,027 - INFO - Successfully saved article: thehindu_Premier League Arsenal hammer Man City 5-1 to stay.md
+2025-02-06 15:09:09,028 - INFO - Successfully scraped article from: https://www.thehindu.com/sport/football/premier-league-arsenal-hammer-man-city-5-1-to-stay-in-title-hunt/article69173901.ece
+2025-02-06 15:09:09,134 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-06 15:09:09,206 - INFO - Successfully saved article: indianexpress_China announces measures against Google other US f.md
+2025-02-06 15:09:09,206 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
+2025-02-06 15:09:09,207 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..

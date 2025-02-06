@@ -22,6 +22,11 @@ Arsenal have been accused of being over-reliant on set-piece goals this season
 but on Sunday they played with fluency and flare to rack up their biggest home
 win of the league season.
 
+![Pep Guardiola, manager of Manchester City, looks dejected as he leaves the
+pitch after defeat to Arsenal during the Premier League match between Arsenal
+FC and Manchester City FC at Emirates Stadium on February 2,
+2025](https://www.thehindu.com/theme/images/th-online/1x1spacer.png)
+
 Pep Guardiola, manager of Manchester City, looks dejected as he leaves the pitch after defeat to Arsenal during the Premier League match between Arsenal FC and Manchester City FC at Emirates Stadium on February 2, 2025 | Photo Credit: Getty Images 
 
 Sloppy City gifted Arsenal the lead when Manuel Akanji was put in trouble by
