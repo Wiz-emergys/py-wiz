@@ -1,0 +1,12 @@
+2025-02-10 17:54:35,387 - INFO - Successfully saved article: thehindu_Complaint filed against Ranveer Allahbadia others .md
+2025-02-10 17:54:35,387 - INFO - Successfully scraped article from: https://www.thehindu.com/news/national/complaint-filed-against-ranveer-allahbadia-apoorva-makhija-samay-raina-for-offensive-remarks-on-indias-got-latent/article69202071.ece
+2025-02-10 17:54:35,499 - ERROR - Error scraping https://www.bbc.com/sport/american-football/articles/ckgyvyygd12o: Title element not found
+2025-02-10 17:54:35,551 - INFO - Successfully saved article: indianexpress_Explained How mice learn to suppress fear implicat.md
+2025-02-10 17:54:35,551 - INFO - Successfully scraped article from: https://indianexpress.com/article/explained/explained-sci-tech/how-mice-learn-to-suppress-fear-implications-of-this-finding-9827177/
+2025-02-10 17:54:35,552 - ERROR - Task failed for URL: https://www.bbc.com/sport/american-football/articles/ckgyvyygd12o
+2025-02-10 17:55:07,159 - ERROR - Error scraping https://www.bbc.com/sport/american-football/articles/ckgyvyygd12o: Title element not found
+2025-02-10 17:55:07,160 - ERROR - Task failed for URL: https://www.bbc.com/sport/american-football/articles/ckgyvyygd12o
+2025-02-10 17:57:56,976 - INFO - Successfully saved article: bbc_Ed Sheeran stopped from busking in Bengaluru by In.md
+2025-02-10 17:57:56,976 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/cvg8lnnge8po
+2025-02-10 17:58:28,062 - INFO - Successfully saved article: bbc_Why more young men in Germany are turning to the f.md
+2025-02-10 17:58:28,063 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/cy082dn7rkqo

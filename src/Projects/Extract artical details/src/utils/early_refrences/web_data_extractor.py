@@ -12,6 +12,17 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # ========================
 start=time.time()
 def safe_get(element, selector, attribute="text"):
+    """
+    Safely extract a value from an HTML element.
+
+    Parameters:
+        element (bs4.element.Tag): The element to extract from.
+        selector (str): The CSS selector to use to extract the element.
+        attribute (str): The attribute to extract from the element. Defaults to "text".
+
+    Returns:
+        str: The extracted value, or empty string if the element or attribute is not found.
+    """
     result = element.select_one(selector)
     if result:
         if attribute == "text":
@@ -20,6 +31,17 @@ def safe_get(element, selector, attribute="text"):
     return ""
 
 def get_search_url(engine, query, page):
+    """
+    Construct a search URL for the specified search engine.
+
+    Parameters:
+        engine (str): Name of the search engine (one of "google", "bing", or "yahoo").
+        query (str): The search query string.
+        page (int): Page number to get results for.
+
+    Returns:
+        str: The constructed search URL.
+    """
     query = quote(query)
     if engine == "google":
         return f"https://www.google.com/search?q={query}&tbm=nws&start={(page-1)*10}"
@@ -30,6 +52,24 @@ def get_search_url(engine, query, page):
     return ""
 
 def scrape_results():
+    """
+    Scrape news results from specified search engines for all companies and keywords in the config file.
+
+    Writes the scraped results to a CSV file with the following columns:
+
+        - Search String
+        - Search Engine
+        - Link
+        - Title
+        - Time stamp
+        - Media name
+
+    For each search engine, loops through all pages (up to the specified number of pages) and extracts the news results.
+
+    If an error occurs while processing a page, logs the error and continues to the next page.
+
+    Note: This function is currently blocking and synchronous, but it can be easily modified to be asynchronous using asyncio.
+    """
     with open(CONFIG_FILE) as f:
         config = json.load(f)
     

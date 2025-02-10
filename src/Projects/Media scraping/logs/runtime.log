@@ -306,3 +306,181 @@
 2025-02-06 15:09:09,206 - INFO - Successfully saved article: indianexpress_China announces measures against Google other US f.md
 2025-02-06 15:09:09,206 - INFO - Successfully scraped article from: https://indianexpress.com/article/technology/tech-news-technology/china-announces-measures-against-google-other-us-firms-as-trade-tensions-escalate-9816925/?ref=shrt_article_readfull
 2025-02-06 15:09:09,207 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 11:36:06,801 - INFO - Successfully saved article: indianexpress_Delhi Election Results 2025 Live Updates Kejriwal .md
+2025-02-07 11:36:06,803 - INFO - Successfully scraped article from: https://indianexpress.com/article/cities/delhi/delhi-election-results-2025-live-updates-election-commission-of-india-vidhan-sabha-chunav-results-9822255/?ref=l2_home,https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 11:37:46,470 - INFO - Successfully saved article: indianexpress_Delhi Election Results 2025 Live Updates Kejriwal .md
+2025-02-07 11:37:46,471 - INFO - Successfully scraped article from: https://indianexpress.com/article/cities/delhi/delhi-election-results-2025-live-updates-election-commission-of-india-vidhan-sabha-chunav-results-9822255/?ref=l2_home,https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 11:39:03,235 - INFO - Successfully saved article: indianexpress_Delhi Election Results 2025 Live Updates Kejriwal .md
+2025-02-07 11:39:03,236 - INFO - Successfully scraped article from: https://indianexpress.com/article/cities/delhi/delhi-election-results-2025-live-updates-election-commission-of-india-vidhan-sabha-chunav-results-9822255/?ref=l2
+2025-02-07 11:39:21,788 - INFO - Successfully saved article: indianexpress_Delhi Election Results 2025 Live Updates Kejriwal .md
+2025-02-07 11:39:21,789 - INFO - Successfully scraped article from: https://indianexpress.com/article/cities/delhi/delhi-election-results-2025-live-updates-election-commission-of-india-vidhan-sabha-chunav-results-9822255/?ref=l2_home,https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 11:40:02,857 - INFO - Successfully saved article: indianexpress_Delhi Election Results 2025 Live Updates Kejriwal .md
+2025-02-07 11:40:02,857 - INFO - Successfully scraped article from: https://indianexpress.com/article/cities/delhi/delhi-election-results-2025-live-updates-election-commission-of-india-vidhan-sabha-chunav-results-9822255/?ref=l2
+2025-02-07 11:40:30,690 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 11:40:30,690 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 11:42:05,534 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 11:42:05,535 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 11:42:05,688 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 11:42:05,688 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 11:42:05,822 - INFO - Successfully saved article: indianexpress_Fire breaks out at Mahakumbh second blaze since st.md
+2025-02-07 11:42:05,824 - INFO - Successfully scraped article from: https://indianexpress.com/article/india/fire-mahakumbh-up-sector18-prayagraj-9822483/?ref=hometop_hp
+2025-02-07 11:42:05,978 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 11:42:05,982 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 11:43:22,852 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 11:43:22,853 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 11:43:22,963 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 11:43:23,016 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 11:43:23,017 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 11:43:23,078 - INFO - Successfully saved article: indianexpress_Delhi Election Results 2025 Live Updates Kejriwal .md
+2025-02-07 11:43:23,079 - INFO - Successfully scraped article from: https://indianexpress.com/article/cities/delhi/delhi-election-results-2025-live-updates-election-commission-of-india-vidhan-sabha-chunav-results-9822255/?ref=l2
+2025-02-07 11:43:24,000 - INFO - Successfully saved article: indianexpress_Fire breaks out at Mahakumbh second blaze since st.md
+2025-02-07 11:43:24,000 - INFO - Successfully scraped article from: https://indianexpress.com/article/india/fire-mahakumbh-up-sector18-prayagraj-9822483/?ref=hometop_hp
+2025-02-07 11:43:24,002 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 11:45:30,815 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 11:45:30,817 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 11:45:55,657 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 11:45:55,660 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 11:46:26,792 - INFO - Successfully saved article: indianexpress_Fire breaks out at Mahakumbh second blaze since st.md
+2025-02-07 11:46:26,793 - INFO - Successfully scraped article from: https://indianexpress.com/article/india/fire-mahakumbh-up-sector18-prayagraj-9822483/?ref=hometop_hp
+2025-02-07 11:46:26,844 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 11:46:26,845 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 11:46:27,076 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 11:46:27,838 - INFO - Successfully saved article: indianexpress_Fire breaks out at Mahakumbh second blaze since st.md
+2025-02-07 11:46:27,839 - INFO - Successfully scraped article from: https://indianexpress.com/article/india/fire-mahakumbh-up-sector18-prayagraj-9822483/?ref=hometop_hp
+2025-02-07 11:46:27,840 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 11:53:06,282 - ERROR - Error scraping https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/: too many values to unpack (expected 2)
+2025-02-07 11:53:06,283 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: too many values to unpack (expected 2)
+2025-02-07 11:53:06,283 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: too many values to unpack (expected 2)
+2025-02-07 11:53:06,284 - ERROR - Task failed for url https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/..
+2025-02-07 11:53:06,285 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 11:53:06,285 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:08:26,604 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: too many values to unpack (expected 2)
+2025-02-07 12:08:26,605 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: too many values to unpack (expected 2)
+2025-02-07 12:08:26,605 - ERROR - Error scraping https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/: too many values to unpack (expected 2)
+2025-02-07 12:08:26,606 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:08:26,607 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:08:26,607 - ERROR - Task failed for url https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/..
+2025-02-07 12:09:51,431 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: name 'image_selector' is not defined
+2025-02-07 12:09:51,527 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: name 'image_selector' is not defined
+2025-02-07 12:09:51,568 - ERROR - Error scraping https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/: name 'image_selector' is not defined
+2025-02-07 12:09:51,569 - ERROR - Task failed for url https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/..
+2025-02-07 12:09:51,570 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:09:51,570 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:11:02,274 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: cannot access local variable 'md_content' where it is not associated with a value
+2025-02-07 12:11:02,317 - ERROR - Error scraping https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/: cannot access local variable 'md_content' where it is not associated with a value
+2025-02-07 12:11:02,426 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-07 12:11:02,428 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:11:02,428 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:11:02,429 - ERROR - Task failed for url https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/..
+2025-02-07 12:12:39,347 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 12:12:39,347 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 12:12:39,391 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:12:39,392 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:12:39,499 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-07 12:12:39,500 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:13:49,537 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-07 12:13:49,538 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:17:26,460 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: not enough values to unpack (expected 3, got 2)
+2025-02-07 12:17:26,461 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:21:20,962 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: ResultSet object has no attribute "select". You're probably treating a list of elements like a single element. Did you call find_all() when you meant to call find()?
+2025-02-07 12:21:20,963 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:23:42,567 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:23:42,568 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:24:59,786 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: not enough values to unpack (expected 3, got 2)
+2025-02-07 12:24:59,786 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:25:54,949 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:25:54,949 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:27:29,244 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:27:29,245 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:27:29,388 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: cannot access local variable 'md_content' where it is not associated with a value
+2025-02-07 12:27:29,389 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:28:02,541 - ERROR - Error scraping https://www.bbc.com/news/articles/c0rqxpg2ryvo: cannot access local variable 'md_content' where it is not associated with a value
+2025-02-07 12:28:02,542 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:32:09,310 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:32:09,311 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:34:51,435 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:34:51,435 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:35:50,705 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 12:35:50,706 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 12:35:50,797 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:35:50,798 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:37:10,972 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 12:37:10,973 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 12:37:11,011 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:37:11,011 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:39:26,597 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:39:26,597 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:40:17,465 - ERROR - Save failed: [Errno 2] No such file or directory: 'C:\\Users\\NikhilJain\\py-wiz\\src\\Projects\\Media scraping\\extracted_content\\thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md'
+2025-02-07 12:40:17,517 - ERROR - Save failed: [Errno 2] No such file or directory: 'C:\\Users\\NikhilJain\\py-wiz\\src\\Projects\\Media scraping\\extracted_content\\bbc_Prevent closed Southport killer case prematurely.md'
+2025-02-07 12:40:17,577 - ERROR - Save failed: [Errno 2] No such file or directory: 'C:\\Users\\NikhilJain\\py-wiz\\src\\Projects\\Media scraping\\extracted_content\\indianexpress_Panama president to US stop lies and falsehoods ab.md'
+2025-02-07 12:40:17,578 - ERROR - Task failed for url https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/..
+2025-02-07 12:40:17,579 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:40:17,579 - ERROR - Task failed for url https://www.bbc.com/news/articles/c0rqxpg2ryvo..
+2025-02-07 12:40:43,693 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:40:43,694 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:40:43,813 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 12:40:43,814 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 12:40:43,846 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 12:40:43,846 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 12:44:06,291 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:44:06,291 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:45:24,920 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: Invalid character "'" position 43
+  line 1:
+div.article-picture.top-pic Picture img.src']
+                                           ^
+2025-02-07 12:45:24,921 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:46:30,532 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 12:46:30,532 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 12:46:30,585 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:46:30,586 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:47:42,281 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:47:42,282 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:50:08,938 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:50:08,939 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:51:09,006 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:51:09,007 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:52:18,235 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:52:18,236 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:54:10,087 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 12:54:10,088 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 12:55:50,518 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: Malformed attribute selector at position 63
+  line 1:
+div.article-picture.top-pic div.picture verticle picture source["min-width"]
+                                                               ^
+2025-02-07 12:55:50,519 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:56:45,144 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: Malformed attribute selector at position 63
+  line 1:
+div.article-picture.top-pic div.picture verticle picture source["min-width"]
+                                                               ^
+2025-02-07 12:56:45,145 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 12:57:41,998 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 12:57:41,999 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 12:57:56,457 - ERROR - Error scraping https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece: Malformed attribute selector at position 63
+  line 1:
+div.article-picture.top-pic div.picture verticle picture source["min-width"]
+                                                               ^
+2025-02-07 12:57:57,353 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 12:57:57,354 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 12:57:57,355 - ERROR - Task failed for url https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece..
+2025-02-07 13:00:19,020 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 13:00:19,020 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 13:01:03,032 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 13:01:03,033 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 13:01:36,333 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 13:01:36,334 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 13:02:04,970 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 13:02:04,971 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 13:03:04,665 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 13:03:04,666 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 13:03:53,071 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 13:03:53,072 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 13:03:53,207 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 13:03:53,208 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 13:03:53,269 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 13:03:53,270 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/
+2025-02-07 13:05:38,063 - INFO - Successfully saved article: thehindu_Rupee falls 3 paise to 8665 against US dollar in e.md
+2025-02-07 13:05:38,064 - INFO - Successfully scraped article from: https://www.thehindu.com/incoming/rupee-falls-3-paise-to-8665-against-us-dollar-in-early-trade/article69162553.ece
+2025-02-07 13:05:38,147 - INFO - Successfully saved article: bbc_Prevent closed Southport killer case prematurely.md
+2025-02-07 13:05:38,148 - INFO - Successfully scraped article from: https://www.bbc.com/news/articles/c0rqxpg2ryvo
+2025-02-07 13:05:38,196 - INFO - Successfully saved article: indianexpress_Panama president to US stop lies and falsehoods ab.md
+2025-02-07 13:05:38,197 - INFO - Successfully scraped article from: https://indianexpress.com/article/world/panama-canal-trump-marco-rubio-president-9821861/

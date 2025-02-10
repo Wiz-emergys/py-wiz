@@ -1,6 +1,9 @@
 # Prevent closed Southport killer case 'prematurely'
 
-The Prevent counter-terrorism scheme "prematurely" closed its case on Axel
+![Image](https://ichef.bbci.co.uk/news/480/cpsprodpb/de84/live/45f73080-e3dd-11ef-bd1b-d536627785f2.jpg.webp)
+
+
+ The Prevent counter-terrorism scheme "prematurely" closed its case on Axel
 Rudakubana three years before he went on to murder three children in
 Southport, a government review has found.
 

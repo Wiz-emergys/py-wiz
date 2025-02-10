@@ -1,8 +1,13 @@
 {
-
-    "companies": ["Tata", "Jio", "Apple"],
-    
-    "keywords": ["Lawsuits", "merger", "bankruptcy"],
-    
+    "companies": [
+        "tata",
+        "jio",
+        "apple"
+    ],
+    "keywords": [
+        "lawsuits",
+        "merger",
+        "bankruptcy"
+    ],
     "pages": 3
 }
