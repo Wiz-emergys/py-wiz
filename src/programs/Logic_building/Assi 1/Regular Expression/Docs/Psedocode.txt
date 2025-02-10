@@ -1,0 +1,74 @@
+BEGIN
+
+SET download_dir to current_working_directory + '/download'
+CREATE download_dir if it does not exist
+
+FUNCTION download_pdf()
+    SET chrome_options with headless mode and download preferences
+    INITIALIZE webdriver with ChromeDriverManager and chrome_options
+    LOAD first PDF URL in driver
+    WAIT for 20 seconds
+    LOAD second PDF URL in driver
+    WAIT for 20 seconds
+    QUIT driver
+
+FUNCTION find_path(name, download_dir)
+    FOR each file in download_dir
+        IF file starts with name
+            RETURN full path to file
+    RETURN None
+
+FUNCTION extract_text_from_pdf(pdf_path)
+    OPEN pdf at pdf_path with pdfplumber
+    SET text to empty string
+    FOR each page_number in range of first 3 pages or less
+        GET page at page_number
+        APPEND extracted text from page to text
+    RETURN text
+
+FUNCTION extract_cin(text)
+    DEFINE cin_pattern as regex pattern for CIN numbers
+    RETURN all matches of cin_pattern in text
+
+FUNCTION extract_emails(text)
+    DEFINE email_pattern as regex pattern for email addresses
+    RETURN all matches of email_pattern in text
+
+FUNCTION extract_phone_numbers(text)
+    DEFINE phone_pattern as regex pattern for phone numbers
+    RETURN all matches of phone_pattern in text
+
+FUNCTION extract_pan_numbers(text)
+    DEFINE pan_pattern as regex pattern for PAN numbers
+    RETURN all matches of pan_pattern in text
+
+FUNCTION extract_dates(text)
+    DEFINE date_pattern as regex pattern for dates (DD/MM/YYYY)
+    RETURN all matches of date_pattern in text
+
+FUNCTION extract_websites(text)
+    DEFINE website_pattern as regex pattern for websites
+    RETURN all matches of website_pattern in text
+
+FUNCTION main(pdf_path)
+    SET text to result of extract_text_from_pdf(pdf_path)
+    SET cin_numbers to result of extract_cin(text)
+    PRINT "CIN Numbers:" count of cin_numbers and cin_numbers
+    SET emails to result of extract_emails(text)
+    PRINT "Email IDs:" count of emails and emails
+    SET phone_numbers to result of extract_phone_numbers(text)
+    PRINT "Phone Numbers:" count of phone_numbers and phone_numbers
+    SET pan_numbers to result of extract_pan_numbers(text)
+    PRINT "PAN Numbers:" count of pan_numbers and pan_numbers
+    SET dates to result of extract_dates(text)
+    PRINT "Dates:" count of dates and dates
+    SET websites to result of extract_websites(text)
+    PRINT "Websites:" count of websites and websites
+
+SET pdf_path to result of find_path("Draft-Annual-Return-FY-2021-22.pdf", download_dir)
+CALL main(pdf_path)
+
+SET pdf_path to result of find_path("Form-MGT-7.pdf", download_dir)
+CALL main(pdf_path)
+
+END
