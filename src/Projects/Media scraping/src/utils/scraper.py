@@ -95,7 +95,16 @@ async def scrape_article(session: aiohttp.ClientSession, url: str):
     
 async def main(urls):
     """
-    Asynchronous function to scrape multiple articles concurrently.
+    Asynchronous main function.
+
+    This function takes a list of URLs and runs them all through the scrape_article
+    function asynchronously using aiohttp. It then logs any errors and results.
+
+    Parameters:
+        urls (list): List of URLs to scrape.
+
+    Returns:
+        None
     """
     async with aiohttp.ClientSession() as session:
         tasks = [scrape_article(session, url) for url in urls]

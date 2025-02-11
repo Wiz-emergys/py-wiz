@@ -4,6 +4,7 @@ import os
 
 log_file = os.path.join(logs_dir, 'runtime.log')
 
+"""logger functionas"""
 logging.basicConfig(
     filename=log_file,
     level=logging.INFO,

@@ -7,7 +7,20 @@ from utils.config_loader import USER_AGENT, OUTPUT_FILE, load_config
 from utils.utils import safe_get
 
 async def fetch(session: aiohttp.ClientSession, url: str) -> str:
-    """Fetch URL content"""
+    """
+    Fetches the content of a URL asynchronously.
+
+    Parameters:
+        session (aiohttp.ClientSession): The client session to use for the request.
+        url (str): The URL to fetch content from.
+
+    Returns:
+        str: The response text from the URL if successful, None if an error occurs.
+
+    Raises:
+        Exception: If an error occurs during the fetch operation, it is caught and printed.
+    """
+    
     try:
         async with session.get(url, headers={"User-Agent": USER_AGENT}, timeout=25) as response:
             return await response.text()
@@ -28,7 +41,23 @@ def get_search_url(engine: str, query: str, page: int) -> str:
 
 async def scrape_page(session: aiohttp.ClientSession, writer: csv.writer, 
                      search_str: str, engine: str, page: int):
-    """Scrape a single page of results"""
+    """
+    Scrape news article details from a search engine results page.
+
+    Parameters:
+        session (aiohttp.ClientSession): The client session to use for making HTTP requests.
+        writer (csv.writer): CSV writer object to write the extracted data to a CSV file.
+        search_str (str): The search string used to query the search engine.
+        engine (str): The name of the search engine ("google", "bing", or "yahoo").
+        page (int): The page number to scrape results from.
+
+    Returns:
+        None
+
+    This function uses the specified search engine and page number to construct a search URL,
+    fetches the page content, and parses the HTML using BeautifulSoup. It extracts article
+    details such as title, link, time, and media name, and writes them to a CSV file.
+    """
     url = get_search_url(engine, search_str, page)
     if not url:
         return
@@ -68,7 +97,27 @@ async def scrape_page(session: aiohttp.ClientSession, writer: csv.writer,
             writer.writerow([search_str, engine, link, title, time, media])
 
 async def scrape_results():
-    """Main scraping function"""
+    
+    """
+    Scrape news results from specified search engines for all companies and keywords in the config file.
+
+    Opens the configuration file to retrieve the list of companies, keywords, and number of pages to scrape. For each
+    company and keyword combination, constructs a search string and iterates over the specified search engines and pages.
+    Initiates asynchronous tasks to scrape each page using the `scrape_page` function.
+
+    Writes the scraped results to a CSV file with the following columns:
+        - Search String
+        - Search Engine
+        - Link
+        - Title
+        - Time stamp
+        - Media name
+
+    Utilizes asyncio for concurrent execution to improve efficiency.
+
+    Raises:
+        IOError: If there is an issue opening or writing to the output CSV file.
+    """
     config = load_config()
     async with aiohttp.ClientSession() as session:
         with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
