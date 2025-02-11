@@ -11,8 +11,18 @@ project_root = os.path.dirname(os.path.abspath(__file__))
 download_dir = os.path.join(project_root, 'download')
 os.makedirs(download_dir, exist_ok=True)
 
-# ASYNCHRONOUS PDF PROCESSING FUNCTION
+
+
 async def process_pdf(pdf_path: str):
+    """
+    Asynchronous function to process a PDF file.
+
+    Args:
+        pdf_path (str): The path to the PDF file to process.
+
+    Returns:
+        None
+    """
     text = await asyncio.to_thread(extract_text_from_pdf, pdf_path)
     
     results = {
@@ -28,6 +38,22 @@ async def process_pdf(pdf_path: str):
 
 # MAIN ASYNCHRONOUS WORKFLOW
 async def main_async():
+    
+    """
+    Asynchronous main function.
+
+    This function builds a dynamic list of PDFs based on user input, downloads them concurrently using aiohttp,
+    filters out any failed downloads, and processes each downloaded PDF concurrently using asyncio.
+
+    The function will exit if no PDF URLs are provided or if no PDFs are downloaded successfully.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
+    
     pdf_list = []
     print("Enter the PDF URLs one by one.")
 
@@ -52,11 +78,12 @@ async def main_async():
     if not file_paths:
         print("No PDFs were downloaded successfully. Exiting.")
         return
-
+    start=time.time()
     process_tasks = [process_pdf(path) for path in file_paths]
     await asyncio.gather(*process_tasks)
+    print(f"The total time required is: {time.time() - start}")
+
 
 if __name__ == '__main__':
-    start = time.time()
     asyncio.run(main_async())
-    print(f"The total time required is: {time.time() - start}")
+   

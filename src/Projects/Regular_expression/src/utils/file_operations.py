@@ -4,6 +4,13 @@ results_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 're
 os.makedirs(results_dir, exist_ok=True)
 
 def write_results_to_file(pdf_path, results):
+    """
+    Writes extracted data to a formatted text file.
+
+    Args:
+        pdf_path (str): The path of the processed PDF file.
+        results (dict): A dictionary containing extracted CINs, emails, phone numbers, PANs, dates, and websites.
+    """    
     filename = os.path.basename(pdf_path).replace('.pdf', '_results.txt')
     result_file_path = os.path.join(results_dir, filename)
 
