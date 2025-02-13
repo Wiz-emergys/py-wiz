@@ -5,6 +5,7 @@ from urllib.parse import quote
 from bs4 import BeautifulSoup
 from utils.config_loader import USER_AGENT, OUTPUT_FILE, load_config
 from utils.utils import safe_get
+import dateparser
 
 async def fetch(session: aiohttp.ClientSession, url: str) -> str:
     """
@@ -20,7 +21,6 @@ async def fetch(session: aiohttp.ClientSession, url: str) -> str:
     Raises:
         Exception: If an error occurs during the fetch operation, it is caught and printed.
     """
-    
     try:
         async with session.get(url, headers={"User-Agent": USER_AGENT}, timeout=25) as response:
             return await response.text()
@@ -32,8 +32,11 @@ def get_search_url(engine: str, query: str, page: int) -> str:
     """Generate search URL for different engines"""
     query = quote(query)
     if engine == "google":
+        # print(f"https://www.google.com/search?q={query}&tbm=nws&start={(page-1)*10}")
         return f"https://www.google.com/search?q={query}&tbm=nws&start={(page-1)*10}"
+    
     elif engine == "bing":
+        # print(f"https://www.bing.com/news/search?q={query}&first={(page-1)*10+1}")
         return f"https://www.bing.com/news/search?q={query}&first={(page-1)*10+1}"
     elif engine == "yahoo":
         return f"https://news.search.yahoo.com/search?p={query}&b={(page-1)*10+1}"
@@ -76,17 +79,19 @@ async def scrape_page(session: aiohttp.ClientSession, writer: csv.writer,
             link = safe_get(item, "a", "href")
             time = safe_get(item, "div.OSrXXb span")
             media = safe_get(item, "div.MgUUmf span")
-            writer.writerow([search_str, engine, link, title, time, media])
-    
+            parsed_time=dateparser.parse(time)
+            time_stamo=parsed_time.isoformat() if parsed_time else "No found"
+            writer.writerow([search_str, engine, link, title, time_stamo, media])
     elif engine == "bing":
         items = soup.select("div.news-card")
         for item in items:
-            title = safe_get(item, "div.snippet", "title")
+            title = safe_get(item, "a.title",attribute="text")
             link = safe_get(item, "a", "href")
-            time = safe_get(item, 'div.source span[tabindex="0"]')
+            time = safe_get(item, 'div.source span[tabindex="0"]')  
             media = safe_get(item, "div.source.set_top")
-            writer.writerow([search_str, engine, link, title, time, media])
-    
+            parsed_time=dateparser.parse(time)
+            time_stamo=parsed_time.isoformat() if parsed_time else "No found"
+            writer.writerow([search_str, engine, link, title, time_stamo, media])
     elif engine == "yahoo":
         items = soup.select("div.NewsArticle")
         for item in items:
@@ -94,7 +99,9 @@ async def scrape_page(session: aiohttp.ClientSession, writer: csv.writer,
             link = safe_get(item, "a", "href")
             time = safe_get(item, "span.s-time, span.time, time")
             media = safe_get(item, "span.s-source")
-            writer.writerow([search_str, engine, link, title, time, media])
+            parsed_time=dateparser.parse(time)
+            time_stamo=parsed_time.isoformat() if parsed_time else "No found"
+            writer.writerow([search_str, engine, link, title, time_stamo, media])
 
 async def scrape_results():
     

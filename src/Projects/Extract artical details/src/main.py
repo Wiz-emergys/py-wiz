@@ -5,7 +5,6 @@ from utils.config_loader import CONFIG_FILE, get_user_input, OUTPUT_FILE
 from utils.scraper import scrape_results
 
 def main():
-    
     """
     Main function to scrape news results from specified search engines for all companies and keywords in the config file.
 

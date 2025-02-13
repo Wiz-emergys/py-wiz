@@ -74,7 +74,7 @@ def extract_dates(text: str):
 
     Args:
         text (str): The input text from which to extract dates.
-
+ 
     Returns:
         list: A list of strings, each representing a date found in the text in the format DD/MM/YYYY.
     """

@@ -9,3 +9,4 @@ if __name__ == "__main__":
     start = time.time()
     asyncio.run(main(urls))
     print(f"Execution time: {time.time() - start:.2f} seconds")
+  
