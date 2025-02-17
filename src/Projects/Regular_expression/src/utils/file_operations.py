@@ -16,17 +16,17 @@ def write_results_to_file(pdf_path, results):
 
     with open(result_file_path, 'w', encoding='utf-8') as f:
         f.write(f"\n{'='*50}\n")
-        f.write(f"📄 Processed File: {os.path.basename(pdf_path)}\n")
+        f.write(f"🗄  Processed File: {os.path.basename(pdf_path)}\n")
         f.write(f"{'='*50}\n\n")
 
         for key, values in results.items():
             formatted_key = key.replace("_", " ").title()
-            f.write(f"🔹 {formatted_key} ({len(values)} found):\n")
+            f.write(f"{formatted_key} ({len(values)} found):\n")
             if values:
                 for value in values:
-                    f.write(f"   ➜ {value}\n")
+                    f.write(f"➜ {value}\n")
             else:
-                f.write("   ❌ No data found\n")
+                f.write("❌ No data found\n")
             f.write("\n")
         
         f.write(f"{'='*50}\n")
